@@ -7,7 +7,6 @@ The **Fake News Detection System** is a data analysis and machine learning proje
 In this project, the dataset is explored, cleaned, and prepared for machine learning using **Python and Jupyter Notebook**. Various data analysis and visualization techniques are used to understand the dataset, identify missing or duplicate values, analyze text data, and prepare the data for further machine learning tasks.
 
 The main goal of this project is to create a clean and reliable dataset that can be used to train a machine learning model for detecting fake news.
-
 ---
 
 ## 🎯 Objectives
@@ -42,7 +41,6 @@ The main goal of this project is to create a clean and reliable dataset that can
 | **Matplotlib**   | Data visualization                        |
 | **Seaborn**      | Statistical data visualization            |
 | **Scikit-learn** | Data preprocessing and machine learning   |
-| **Regex (re)**   | Text cleaning and pattern removal         |
 
 ---
 
