@@ -158,7 +158,6 @@ NumPy was used for numerical operations and working with arrays.
 ```python
 import numpy as np
 ```
-
 ### Matplotlib
 
 Matplotlib was used to create graphs and visualize the data.
